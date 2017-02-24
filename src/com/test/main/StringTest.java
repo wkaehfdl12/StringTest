@@ -40,17 +40,5 @@ public class StringTest {
         stringValue.set(s, tempChar);
         //http://iilii.egloos.com/3809685
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }
 
